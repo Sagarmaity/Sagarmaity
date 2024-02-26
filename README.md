@@ -1,7 +1,7 @@
 ![logo](https://github.com/Sagarmaity/Sagarmaity/blob/main/Beige%20%26%20Black%20Geometric%20Technology%20LinkedIn%20Banner%20(2).png) 
 <h1 align="center">Hi 👋, I'm Sagar Maity</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
-<img align="right" alt="coding" src="https://qph.cf2.quoracdn.net/main-qimg-4b695f72ac7737ce5b36508a0058dd02">
+<img align="right" alt="coding" width="500" src="https://qph.cf2.quoracdn.net/main-qimg-4b695f72ac7737ce5b36508a0058dd02">
 
 
 
