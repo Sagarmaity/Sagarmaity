@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **SQL,advance-C,Java full stack etc.**
+- 🌱 I’m currently learning **MongoDB,DevOps,Java full stack etc.**
 
 - 💬 Ask me about **what is my birth day😊??**
 
